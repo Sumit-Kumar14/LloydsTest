@@ -41,7 +41,6 @@ android {
 dependencies {
     api(project(":core:ui"))
     api(project(":core:network"))
-    api(project(":core:local"))
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)

@@ -1,4 +1,4 @@
-package com.lloydstest.features.list.presentation.model
+package com.lloydstest.features.list.presentation.state
 
 sealed class GetDogsUiState {
     data object Loading : GetDogsUiState()

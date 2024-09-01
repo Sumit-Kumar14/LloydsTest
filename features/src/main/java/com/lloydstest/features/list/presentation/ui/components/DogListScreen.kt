@@ -27,7 +27,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.unit.dp
 import coil.compose.rememberAsyncImagePainter
-import com.lloydstest.features.list.presentation.model.GetDogsUiState
+import com.lloydstest.features.list.presentation.state.GetDogsUiState
 import java.util.Locale
 
 @OptIn(ExperimentalMaterial3Api::class)

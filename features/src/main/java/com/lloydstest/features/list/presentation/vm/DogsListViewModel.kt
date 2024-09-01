@@ -5,7 +5,7 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.lloydstest.features.list.domain.use_case.FetchDogsByBreedUseCase
-import com.lloydstest.features.list.presentation.model.GetDogsUiState
+import com.lloydstest.features.list.presentation.state.GetDogsUiState
 import com.lloydstest.network.core.Resource
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.launchIn
