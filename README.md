@@ -9,3 +9,5 @@ The app is organized into different modules:
   - Data
   - Domain
   - Presentation
+
+![Untitled](https://github.com/user-attachments/assets/348b3f06-f572-48fb-95a8-ee9c6af381ea)
